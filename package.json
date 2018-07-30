@@ -1,0 +1,22 @@
+{
+  "name": "responsive_nav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquaductape/Responsive_Nav.git"
+  },
+  "author": "Caleb Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquaductape/Responsive_Nav/issues"
+  },
+  "homepage": "https://github.com/aquaductape/Responsive_Nav#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
